@@ -28,7 +28,7 @@ import java.util.UUID;
 public class WeChatController {
 
     /**
-     * 微信公众号接入
+     * 微信公众号接入，修改了一个bug
      *
      * @return
      */
